@@ -1,4 +1,13 @@
-
+/**
+ * @file book.js
+ *
+ * @authorName Naveed Danish
+ *
+ * @StudentID 301032012
+ *
+ * @WebAppName https://comp229007-f2021-midterm-30103.herokuapp.com/
+ * 
+ */
 let mongoose = require('mongoose');
 
 // Create a model class
