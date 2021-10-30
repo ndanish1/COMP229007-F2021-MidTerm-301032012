@@ -1,9 +1,13 @@
 {
-  "name": "week03-009",
-  "version": "0.0.0",
+  "name": "comp229007-f2021-midterm-301032012",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^12.18.3",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -16,5 +20,18 @@
     "jquery": "^3.6.0",
     "mongoose": "^6.0.8",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "This is an initial project template for students to implement the remaining code, as per midterm test requirements.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndanish1/COMP229007-F2021-MidTerm-301032012.git"
+  },
+  "author": "naveed danish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndanish1/COMP229007-F2021-MidTerm-301032012/issues"
+  },
+  "homepage": "https://github.com/ndanish1/COMP229007-F2021-MidTerm-301032012#readme"
 }
